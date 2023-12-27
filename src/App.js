@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than a day. Hai ta
+          {" "}
         </a>
+        <h1>Raven</h1>
+        <p>A clothing Brand</p>
       </header>
     </div>
   );
