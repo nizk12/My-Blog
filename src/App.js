@@ -15,7 +15,7 @@ function App() {
           {" "}
         </a>
         <h1>Raven</h1>
-        <p>A Club Name</p>
+        <p>Its my brand name</p>
       </header>
     </div>
   );
